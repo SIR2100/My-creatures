@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+		<pattern>*</pattern>
+		<template><random>
+			<li>I don't understand.</li>
+			<li>What are you mean?</li>
+		</random></template>
+	</category>  
+	<category>
+		<pattern>HELLO</pattern>
+		<template><random>
+			<li>Hi</li>
+			<li>Hello</li>
+		</random></template>
+	</category>
+	<category>
+		<pattern>Ok</pattern>
+		<template><random>
+			<li>OK ;-)</li>
+			<li>Do you want anything else?</li>
+		</random></template>
+	</category>
+	<category>
+		<pattern>HI</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>GOOD MORNING</pattern>
+		<template><srai>HELLO</srai></template>
+	</category>
+	<category>
+		<pattern>WHAT IS YOUR NAME</pattern>
+		<template><random>
+			<li>My name is <bot name="name"/>. And what is your name?</li>
+			<li>I am <bot name="name"/>. And what is your name?</li>
+		</random></template>
+	</category>
+	<category>
+		<pattern>WHO ARE YOU</pattern>
+		<template>I am <bot name="name"/>. I am chat bot written by student. And what about you?</template>
+	</category>
+	<category>
+		<pattern>MY NAME IS *</pattern>
+		<template>I am glad</template>
+	</category>
+	<category>
+		<pattern>I AM *</pattern>
+		<template><srai>MY NAME IS TEST</srai></template>
+	</category>
+	<category>
+		<pattern>I'M *</pattern>
+		<template><srai>MY NAME IS TEST</srai></template>
+	</category>
+	<category>
+		<pattern>HOW OLD ARE YOU</pattern>
+		<template>I am <bot name="age"/> age. I was born in <bot name="birthday"/>. And what do you say?</template>
+	</category>
+	<category>
+		<pattern>WHEN WERE YOU BORN</pattern>
+		<template>I was born in <bot name="birthday"/>.</template>
+	</category>
+	<category>
+		<pattern>WHERE WERE YOU BORN</pattern>
+		<template>I was born in <bot name="birthplace"/>.</template>
+	</category>
+	<category>
+		<pattern>HOW ARE YOU</pattern>
+		<template><random>
+			<li>Thank you, I'm fine</li>
+			<li>I sorrow</li>
+			<li>All is normal</li>
+		</random></template>
+	</category>
+	<category>
+		<pattern>YOU ARE STUPID</pattern>
+		<template>No, I'm not stupid. You are stupid!</template>
+	</category>
+	<category>
+		<pattern>WHERE ARE YOU LIVE</pattern>
+		<template><random>
+			<li>I live in <bot name="location"/>. And where are you live?</li>
+			<li>My town is <bot name="location"/>. And where are you live?</li>
+		</random></template>
+	</category>
+	<category>
+		<pattern>I LIVE *</pattern>
+		<template>It is beautiful town. I want to go there.</template>
+	</category>
+	<category>
+		<pattern>My town is *</pattern>
+		<template><srai>I LIVE Test</srai></template>
+	</category>
+</aiml>

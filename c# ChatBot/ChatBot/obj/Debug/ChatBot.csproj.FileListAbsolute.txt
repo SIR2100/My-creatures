@@ -1,0 +1,14 @@
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\bin\Debug\AIMLbot.dll
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+O:\SIR2100\Рабочий стол\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\obj\Debug\ChatBot.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\bin\Debug\ChatBot.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\bin\Debug\AIMLbot.dll
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ChatBot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
