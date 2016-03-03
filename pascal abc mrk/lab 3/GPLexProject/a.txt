@@ -1,0 +1,10 @@
+begin 
+FirstId := 99.9 ;
+SecondId := 8 ; 
+x := 3.14;
+y := '3.14'; //Comment
+z := 'x';
+{
+ok
+}
+end

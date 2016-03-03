@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\SimpleLanguage1\bin\Debug\SimpleLang.exe
+C:\Users\student\Desktop\SimpleLanguage1\bin\Debug\SimpleLang.pdb
+C:\Users\student\Desktop\SimpleLanguage1\obj\x86\Debug\SimpleLang1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\SimpleLanguage1\obj\x86\Debug\SimpleLang.exe
+C:\Users\student\Desktop\SimpleLanguage1\obj\x86\Debug\SimpleLang.pdb

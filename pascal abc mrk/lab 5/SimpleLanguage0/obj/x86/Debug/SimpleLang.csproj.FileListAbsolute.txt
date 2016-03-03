@@ -1,0 +1,20 @@
+P:\Разработка компиляторов\Занятие 5\SimpleLanguage0\bin\Debug\SimpleLang.exe
+P:\Разработка компиляторов\Занятие 5\SimpleLanguage0\bin\Debug\SimpleLang.pdb
+P:\Разработка компиляторов\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.csprojResolveAssemblyReference.cache
+P:\Разработка компиляторов\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.exe
+P:\Разработка компиляторов\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.pdb
+D:\YandexDisk\Документы\Универ\4.1. Разработка компиляторов\Занятие 5\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.exe
+D:\YandexDisk\Документы\Универ\4.1. Разработка компиляторов\Занятие 5\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.pdb
+D:\YandexDisk\Документы\Универ\4.1. Разработка компиляторов\Занятие 5\Занятие 5\SimpleLanguage0\bin\Debug\SimpleLang.exe
+D:\YandexDisk\Документы\Универ\4.1. Разработка компиляторов\Занятие 5\Занятие 5\SimpleLanguage0\bin\Debug\SimpleLang.pdb
+D:\YandexDisk\Документы\Универ\4.1. Разработка компиляторов\Занятие 5\Занятие 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.csprojResolveAssemblyReference.cache
+C:\Users\Katenochek\Desktop\SimpleLanguage0\obj\x86\Debug\SimpleLang.exe
+C:\Users\Katenochek\Desktop\SimpleLanguage0\obj\x86\Debug\SimpleLang.pdb
+C:\Users\Katenochek\Desktop\SimpleLanguage0\bin\Debug\SimpleLang.exe
+C:\Users\Katenochek\Desktop\SimpleLanguage0\bin\Debug\SimpleLang.pdb
+C:\Users\Katenochek\Desktop\SimpleLanguage0\obj\x86\Debug\SimpleLang.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\Конспекты\1. Методы разработки компиляторов\Практика\Задание 5\Задание 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.exe
+O:\SIR2100\Рабочий стол\Конспекты\1. Методы разработки компиляторов\Практика\Задание 5\Задание 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.pdb
+O:\SIR2100\Рабочий стол\Конспекты\1. Методы разработки компиляторов\Практика\Задание 5\Задание 5\SimpleLanguage0\bin\Debug\SimpleLang.exe
+O:\SIR2100\Рабочий стол\Конспекты\1. Методы разработки компиляторов\Практика\Задание 5\Задание 5\SimpleLanguage0\bin\Debug\SimpleLang.pdb
+O:\SIR2100\Рабочий стол\Конспекты\1. Методы разработки компиляторов\Практика\Задание 5\Задание 5\SimpleLanguage0\obj\x86\Debug\SimpleLang.csprojResolveAssemblyReference.cache

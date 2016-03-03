@@ -1,0 +1,38 @@
+begin
+  var a, b, c, d, g, f;
+  b := 2;
+  a := 3 + (5 * (4 - (d / g)));
+  while a do
+  begin
+    b := 0
+  end;
+  a := b;
+  cycle 3
+  begin
+    a := c;
+    c := 1
+  end;
+  repeat
+  begin
+    b := 5;
+    c := 2
+  end
+  until d;
+  b := 0;
+  for b := c to s do
+  begin
+    g := 0;
+    f := 888
+  end;
+  k := 7;
+  write(k);
+  h := 9;
+  if a then
+    h := 9;
+  b := 0;
+  if g then
+    d := 999
+  else
+    s := 0;
+  j := 111
+end

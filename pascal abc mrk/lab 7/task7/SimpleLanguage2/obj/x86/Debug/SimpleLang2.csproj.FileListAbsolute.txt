@@ -1,0 +1,5 @@
+E:\игорьфл\Залить\task7\SimpleLanguage2\bin\Debug\SimpleLang.exe
+E:\игорьфл\Залить\task7\SimpleLanguage2\bin\Debug\SimpleLang.pdb
+E:\игорьфл\Залить\task7\SimpleLanguage2\obj\x86\Debug\SimpleLang2.csprojResolveAssemblyReference.cache
+E:\игорьфл\Залить\task7\SimpleLanguage2\obj\x86\Debug\SimpleLang.exe
+E:\игорьфл\Залить\task7\SimpleLanguage2\obj\x86\Debug\SimpleLang.pdb

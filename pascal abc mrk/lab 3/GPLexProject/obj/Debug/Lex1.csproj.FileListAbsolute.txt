@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\GPLexProject\bin\Debug\sss.exe
+C:\Users\student\Desktop\GPLexProject\bin\Debug\sss.pdb
+C:\Users\student\Desktop\GPLexProject\obj\Debug\Lex1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\GPLexProject\obj\Debug\sss.exe
+C:\Users\student\Desktop\GPLexProject\obj\Debug\sss.pdb

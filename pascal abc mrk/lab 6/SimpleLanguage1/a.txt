@@ -1,0 +1,38 @@
+begin
+
+b := 2;
+a := 3;
+a := b;
+
+
+while true do
+begin
+  a := c;
+  c := 1
+end;
+  
+repeat
+  a := c;
+  c := 1
+until 3;
+  
+for i := 1 to 3 do
+begin
+  a := c;
+  c := 1
+end;
+  
+write(c);
+  
+if c then a := c;
+if c then a := c else a := c;
+
+var a,b,d;
+
+cycle 3
+begin
+  a := c;
+  c := 1
+end
+
+end
