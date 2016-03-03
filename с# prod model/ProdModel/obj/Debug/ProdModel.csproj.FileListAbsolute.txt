@@ -1,0 +1,30 @@
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\bin\Debug\ProdModel.exe.config
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\bin\Debug\ProdModel.exe
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\bin\Debug\ProdModel.pdb
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.Form1.resources
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.exe
+O:\SIR2100\Рабочий стол\ProdModel\ProdModel\obj\Debug\ProdModel.pdb
+E:\Сдача\ProdModel\ProdModel\bin\Debug\ProdModel.exe.config
+E:\Сдача\ProdModel\ProdModel\bin\Debug\ProdModel.exe
+E:\Сдача\ProdModel\ProdModel\bin\Debug\ProdModel.pdb
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.csprojResolveAssemblyReference.cache
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.Form1.resources
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.Properties.Resources.resources
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.csproj.GenerateResource.Cache
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.exe
+E:\Сдача\ProdModel\ProdModel\obj\Debug\ProdModel.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\bin\Debug\ProdModel.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\bin\Debug\ProdModel.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\bin\Debug\ProdModel.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\ProdModel_выучить (5)\ProdModel\obj\Debug\ProdModel.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_ProdModel (5)\ProdModel\bin\Debug\ProdModel.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_ProdModel (5)\ProdModel\obj\Debug\ProdModel.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_ProdModel (5)\ProdModel\obj\Debug\ProdModel.pdb
