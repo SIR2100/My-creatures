@@ -1,0 +1,36 @@
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\NeuralNetwork_выучить (7)\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_NeuralNetwork (7)\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.GenerateResource.Cache
