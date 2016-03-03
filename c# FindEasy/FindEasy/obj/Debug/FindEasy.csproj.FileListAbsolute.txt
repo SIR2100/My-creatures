@@ -1,0 +1,12 @@
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\bin\Debug\FindEasy.exe.config
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\obj\Debug\FindEasy.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\bin\Debug\FindEasy.exe
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\bin\Debug\FindEasy.pdb
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\obj\Debug\FindEasy.exe
+O:\SIR2100\Рабочий стол\FindEasy\FindEasy\obj\Debug\FindEasy.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\bin\Debug\FindEasy.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\obj\Debug\FindEasy.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\obj\Debug\FindEasy.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\bin\Debug\FindEasy.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\bin\Debug\FindEasy.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\FindEasy\FindEasy\obj\Debug\FindEasy.csprojResolveAssemblyReference.cache
