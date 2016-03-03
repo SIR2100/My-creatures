@@ -1,0 +1,30 @@
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\bin\Debug\Resolution.exe.config
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\bin\Debug\Resolution.exe
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\bin\Debug\Resolution.pdb
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.Form1.resources
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.Properties.Resources.resources
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.exe
+C:\Users\1\Documents\Все\Домашние задания\Интеллектуальные системы\Resolution\Resolution\obj\Debug\Resolution.pdb
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\bin\Debug\Resolution.exe.config
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.exe
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.pdb
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\bin\Debug\Resolution.exe
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\bin\Debug\Resolution.pdb
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\Resolution\Resolution\obj\Debug\Resolution.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\bin\Debug\Resolution.exe.config
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.exe
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.pdb
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\bin\Debug\Resolution.exe
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\bin\Debug\Resolution.pdb
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\ИС\Resolution\Resolution\obj\Debug\Resolution.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_Resolution (4)\Resolution\bin\Debug\Resolution.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_Resolution (4)\Resolution\obj\Debug\Resolution.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_Resolution (4)\Resolution\obj\Debug\Resolution.pdb
