@@ -1,0 +1,17 @@
+O:\SIR2100\Рабочий стол\Bezje\Bezje\bin\Debug\Bezje.exe.config
+O:\SIR2100\Рабочий стол\Bezje\Bezje\obj\Debug\Bezje.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\Bezje\Bezje\obj\Debug\Bezje.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\Bezje\Bezje\bin\Debug\Bezje.exe
+O:\SIR2100\Рабочий стол\Bezje\Bezje\bin\Debug\Bezje.pdb
+O:\SIR2100\Рабочий стол\Bezje\Bezje\obj\Debug\Bezje.exe
+O:\SIR2100\Рабочий стол\Bezje\Bezje\obj\Debug\Bezje.pdb
+O:\SIR2100\Рабочий стол\Bezje\Bezje\obj\Debug\Bezje.Form1.resources
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\bin\Debug\Bezje.exe.config
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.exe
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.pdb
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\bin\Debug\Bezje.exe
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\bin\Debug\Bezje.pdb
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.Form1.resources
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\1. Bezje\Bezje\obj\Debug\Bezje.csproj.GenerateResource.Cache
