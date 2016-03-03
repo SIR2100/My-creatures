@@ -1,0 +1,30 @@
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\bin\Debug\For-in-Row.exe.config
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\bin\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\bin\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For_in_Row.Form1.resources
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For_in_Row.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For-in-Row.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\For-in-Row\For-in-Row\obj\Debug\For-in-Row.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\bin\Debug\For-in-Row.exe.config
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\bin\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\bin\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For-in-Row.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For_in_Row.Form1.resources
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For_in_Row.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\Сдача\For-in-Row\For-in-Row\obj\Debug\For-in-Row.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\bin\Debug\For-in-Row.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\bin\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\bin\Debug\For-in-Row.pdb
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For-in-Row.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For_in_Row.Form1.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For_in_Row.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\For-in-Row_выучить (5)\For-in-Row\obj\Debug\For-in-Row.csproj.GenerateResource.Cache
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_For-in-Row (5)\For-in-Row\bin\Debug\For-in-Row.exe.config
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_For-in-Row (5)\For-in-Row\obj\Debug\For-in-Row.exe
+O:\SIR2100\Рабочий стол\ИС\Добор\Сдача\_For-in-Row (5)\For-in-Row\obj\Debug\For-in-Row.pdb
