@@ -1,0 +1,24 @@
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\bin\Debug\10_server.exe.config
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\bin\Debug\10_server.exe
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\bin\Debug\10_server.pdb
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\10_server.csprojResolveAssemblyReference.cache
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\_10_server.Form1.resources
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\_10_server.Properties.Resources.resources
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\10_server.csproj.GenerateResource.Cache
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\10_server.exe
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10_server\10_server\obj\Debug\10_server.pdb
+O:\SIR2100\Рабочий стол\10_server\10_server\bin\Debug\10_server.exe.config
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\10_server.exe
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\10_server.pdb
+O:\SIR2100\Рабочий стол\10_server\10_server\bin\Debug\10_server.exe
+O:\SIR2100\Рабочий стол\10_server\10_server\bin\Debug\10_server.pdb
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\10_server.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\_10_server.Form1.resources
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\_10_server.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\10_server\10_server\obj\Debug\10_server.csproj.GenerateResource.Cache
+D:\10_server\10_server\bin\Debug\10_server.exe.config
+D:\10_server\10_server\obj\Debug\10_server.exe
+D:\10_server\10_server\obj\Debug\10_server.pdb
+C:\Users\Игорь\Desktop\10_server\10_server\bin\Debug\10_server.exe.config
+C:\Users\Игорь\Desktop\10_server\10_server\obj\Debug\10_server.exe
+C:\Users\Игорь\Desktop\10_server\10_server\obj\Debug\10_server.pdb

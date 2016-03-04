@@ -1,0 +1,27 @@
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\bin\Debug\10.exe.config
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\bin\Debug\10.exe
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\bin\Debug\10.pdb
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\_10.Properties.Resources.resources
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\10.csproj.GenerateResource.Cache
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\10.exe
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\10.pdb
+O:\SIR2100\Документы\Visual Studio 2013\Projects\10\10\obj\Debug\_10.Client.resources
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\bin\Debug\10.exe.config
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\10.exe
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\10.pdb
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\bin\Debug\10.exe
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\bin\Debug\10.pdb
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\_10.Client.resources
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\_10.Properties.Resources.resources
+O:\SIR2100\Рабочий стол\10 (Клиент)\10\obj\Debug\10.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\10 (Клиент)\10\bin\Debug\10.exe.config
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\10.exe
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\10.pdb
+C:\Users\Игорь\Desktop\10 (Клиент)\10\bin\Debug\10.exe
+C:\Users\Игорь\Desktop\10 (Клиент)\10\bin\Debug\10.pdb
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\10.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\_10.Client.resources
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\_10.Properties.Resources.resources
+C:\Users\Игорь\Desktop\10 (Клиент)\10\obj\Debug\10.csproj.GenerateResource.Cache
