@@ -1,0 +1,26 @@
+﻿Сборка начата 05.03.2016 0:10:16.
+     1>Проект "O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Лаба_8_сервер\Лаба_8_сервер.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt server_TCP.cpp
+         server_TCP.cpp
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+                 c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): см. объявление "inet_addr"
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(57): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204): см. объявление "strtok"
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(63): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(204): см. объявление "strtok"
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(71): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(77): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>o:\sir2100\рабочий стол\лаба 8\лаба_8_сервер\лаба_8_сервер\server_tcp.cpp(80): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Debug\Лаба_8_сервер.exe" /INCREMENTAL /NOLOGO Ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Debug\Лаба_8_сервер.pdb" /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Debug\Лаба_8_сервер.lib" /MACHINE:X86 Debug\server_TCP.obj
+     1>server_TCP.obj : warning LNK4210: секция .CRT существует; могут существовать необработанные статические инициализаторы или знаки завершения
+     1>MSVCRTD.lib(atonexit.obj) : warning LNK4210: секция .CRT существует; могут существовать необработанные статические инициализаторы или знаки завершения
+         Лаба_8_сервер.vcxproj -> O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Debug\Лаба_8_сервер.exe
+     1>Сборка проекта "O:\SIR2100\Рабочий стол\Лаба 8\Лаба_8_сервер\Лаба_8_сервер\Лаба_8_сервер.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:09.99
