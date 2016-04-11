@@ -1,6 +1,7 @@
 package srv;
 import java.io.*;
 import java.net.*;
+import java.util.ArrayList;
 
 public class Server {
 	public static void main(String[] args) throws IOException {
@@ -51,7 +52,7 @@ class ServerThread extends Thread {
 					doExit = true;
 					break;
 			    case "get": 
-			    	getFiles();
+					os.println(getFiles());
 					break;
 			    case "help": 
 			    	String help = "Get files: get||"
@@ -62,7 +63,6 @@ class ServerThread extends Thread {
 			    case "download": 
 					os.println("Filename?");
 					download(is.readLine());
-					os.println("Files sent successfully!");
 					break;	
 				default: 
 					os.println("Incorrect command. Type help.");
@@ -82,21 +82,23 @@ class ServerThread extends Thread {
 		try
 		{
 			File file = new File("C:\\Temp\\" + filename);
-		    FileInputStream in = new FileInputStream(file);
-			byte[] mybytearray = new byte[(int) file.length()];
-			getfilestat(filename);
-			if (mybytearray.length <= Integer.MAX_VALUE) {
-			    int counter;
-			    //os.write(mybytearray.length);
-			    while((counter = in.read(mybytearray)) != -1){
-			    	os.write(mybytearray, 0, counter);
-				} 
-			    os.flush(); 
-            }else{
-            	System.out.println("File is too large.");
-                os.println("File is too large.");
-            }
-			
+			if (file.exists()) {
+			    FileInputStream in = new FileInputStream(file);
+				byte[] mybytearray = new byte[(int) file.length()];
+				getfilestat(filename);
+				if (mybytearray.length <= Integer.MAX_VALUE) {
+				    int counter;
+				    //os.write(mybytearray.length);
+				    while((counter = in.read(mybytearray)) != -1){
+				    	os.write(mybytearray, 0, counter);
+					} 
+				    os.flush(); 
+					os.println("Files sent successfully!");
+	            }else{
+	            	System.out.println("File is too large.");
+	                os.println("File is too large.");
+	            }
+			} else {os.write(0);}
 		    
 		} catch (Exception e){
 			System.err.println(e);
@@ -105,7 +107,7 @@ class ServerThread extends Thread {
 		}
 	}
 	
-	public void getFiles() {
+	public String getFiles() {
 		File []fList;        
 		File F = new File("C:\\Temp");
 		String res = ""; 
@@ -116,10 +118,10 @@ class ServerThread extends Thread {
 		{
 		     if(fList[i].isFile()){
 		         res += (fList[i].getName());
-		         if(i+2<fList.length) {res += ", ";} else {res += ".";} 
+		         if(i+2<fList.length) {res += ", ";}
 		     }
 		}
-		os.println(res);
+		return res;
 	}
 		
 	public void disconnect() {
@@ -134,35 +136,85 @@ class ServerThread extends Thread {
 	
 	public void getfilestat(String filename) {
 		try {
-		    FileInputStream dfile = new FileInputStream(new File("C:/data.txt"));
+			boolean isFirst = false;
+			boolean found = false;
+			File file = new File("C:/data.txt");
+			//Если файла не существует - создаем его
+			if (!file.exists()) {
+				try{
+					if (file.createNewFile()) {
+						isFirst = true;
+						System.out.println("Файл статистики создан!");
+				}
+					}catch (IOException ex) {
+					System.err.println("Ошибка создания файла!");;
+				}
+			}
+		    FileInputStream dfile = new FileInputStream(file);
 		    byte[] content = new byte[dfile.available()];
 		    dfile.read(content);
 		    dfile.close();
-		    String[] lines = new String(content, "UTF_8").split("\n"); // кодировку указать нужную
+		    String[] lines = new String(content, "UTF-8").split("\n");
 		    int i = 1;
+		    //Разбиваем файла на строки, проверяем вхождения искомого названия файла
 		    for (String line : lines) {
-		        String[] words = line.split(" ");
-		        int j = 1;
-		        for (String word : words) {
-		            if (word.equalsIgnoreCase(filename)) {
-		                System.out.println("Найдено");
-		            }
-		            j++;
-		        }
+		    	//Если вхождение найдено - обновляем строку
+		    	if (line.contains(filename)) {
+			        String[] words = line.split(" ");
+		    		lines[i-1] = words[0] + " " + (Integer.parseInt(words[1].replaceAll("\r", ""))+ 1) + "\r";
+		    		System.out.print("log file was edited: " + lines[i-1]);
+		    		found = true;
+		    	}
 		        i++;
 		    }
-		    //Если не найдено - создаем новое вхождение
+		    //Записываем в файл обновленные данные
+    		try(FileOutputStream fos=new FileOutputStream(file)){
+    			i = 1;
+    			byte[] buffer = null;
+    			for (String newline : lines) {
+    				if (i == lines.length) {
+		    			buffer = (newline).getBytes();
+    				}
+    				else
+    				{
+    					buffer = (newline + "\n").getBytes();
+    				}
+    				fos.write(buffer, 0, buffer.length);
+    				i++;
+    			}
+    			//Если вхождения с искомым названием скачиваемого файла не было, создаем вхождение
+    		    if (!found) {
+    		    	if (isFirst) 
+    		    	{
+    		    		buffer = (filename + " 1").getBytes();
+    		    	}
+    		    	else
+    		    	{
+    		    		buffer = ("\r\n" + filename + " 1").getBytes();
+    		    	}
+    		    	System.out.print("log file was edited: " + filename + " 1");
+	    			fos.write(buffer, 0, buffer.length);
+    		    }
+    		}catch (Exception e) {System.err.println(e);}
 		    
-		}catch (IOException e) {
-			System.out.println(e);
-			try{
-				File newFile = new File("C:/data.txt");
-				if (newFile.createNewFile()) {
-					System.out.println("Файл статистики создан!");
-			}
-				}catch (IOException ex) {
-				System.err.println("Ошибка создания файла!");;
-			}
-		}
+		}catch (IOException e) {System.out.println(e);}
 	}
+	public static String[] divide(String s) {
+        ArrayList<String> tmp = new ArrayList<String>();
+        int i = 0;
+        boolean f = false;
+
+        for (int j = 0; j < s.length(); j++) {
+            if (s.charAt(j) == ' ') {
+                if (j > i) {
+                    tmp.add(s.substring(i, j));
+                }
+                i = j + 1;
+            }
+        }
+        if (i < s.length()) {
+            tmp.add(s.substring(i));
+        }
+        return tmp.toArray(new String[tmp.size()]);
+    }
 }
