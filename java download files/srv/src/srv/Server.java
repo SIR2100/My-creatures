@@ -78,12 +78,13 @@ class ServerThread extends Thread {
 	}
 
 	public void download(String filename) {
-		System.out.print(ip.getHostName()+ ": asking for download '" + filename + "';");
+		System.out.println(ip.getHostName()+ ": asking for download '" + filename + "';");
 		try
 		{
 			File file = new File("C:\\Temp\\" + filename);
 		    FileInputStream in = new FileInputStream(file);
 			byte[] mybytearray = new byte[(int) file.length()];
+			getfilestat(filename);
 			if (mybytearray.length <= Integer.MAX_VALUE) {
 			    int counter;
 			    //os.write(mybytearray.length);
@@ -128,6 +129,40 @@ class ServerThread extends Thread {
 			is.close();
 		} catch (IOException e) {
 			System.out.println("Cannot disconnect: " + ip.getHostName());
+		}
+	}
+	
+	public void getfilestat(String filename) {
+		try {
+		    FileInputStream dfile = new FileInputStream(new File("C:/data.txt"));
+		    byte[] content = new byte[dfile.available()];
+		    dfile.read(content);
+		    dfile.close();
+		    String[] lines = new String(content, "UTF_8").split("\n"); // кодировку указать нужную
+		    int i = 1;
+		    for (String line : lines) {
+		        String[] words = line.split(" ");
+		        int j = 1;
+		        for (String word : words) {
+		            if (word.equalsIgnoreCase(filename)) {
+		                System.out.println("Найдено");
+		            }
+		            j++;
+		        }
+		        i++;
+		    }
+		    //Если не найдено - создаем новое вхождение
+		    
+		}catch (IOException e) {
+			System.out.println(e);
+			try{
+				File newFile = new File("C:/data.txt");
+				if (newFile.createNewFile()) {
+					System.out.println("Файл статистики создан!");
+			}
+				}catch (IOException ex) {
+				System.err.println("Ошибка создания файла!");;
+			}
 		}
 	}
 }
